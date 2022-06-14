@@ -1,0 +1,17 @@
+# -*- coding: cp1250 -*-
+#Pêtla While
+
+#suma = 0
+#x = int(input("Podaj kolejn¹ liczbê"))
+
+
+#liczba = 0      pocz¹tkowa liczba while jest <=5 podaj liczbê i zwiêksz o 1
+#while liczba <=5:
+ #   print(liczba)
+  #  liczba +=1
+
+liczba = 100                  #liczba poczatkowa
+while liczba >=0:             #podczas gdy liczba >=liczba koñcowa
+    print(liczba)             #podaj ka¿d¹ liczbê
+    liczba -=1                #liczba=liczba -1 czyli kolejna jest o 1 mniejsza od nastepnej
+
